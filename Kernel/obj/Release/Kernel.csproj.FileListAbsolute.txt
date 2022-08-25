@@ -1,0 +1,95 @@
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\Kernel.exe.config
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\Kernel.exe
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\Kernel.pdb
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\EntityFramework.dll
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\EntityFramework.xml
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.csprojAssemblyReference.cache
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Properties.Resources.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.Clientes.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.Informes.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Inicio.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.Productos.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.Ventas.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.csproj.GenerateResource.cache
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.csproj.CoreCompileInputs.cache
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.csproj.CopyComplete
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.exe
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.pdb
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.ConsultarVentas.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarProducto.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Migrations.Inicial.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Migrations.incremento.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.ImprimirFactura.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarCliente.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoCliente.resources
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoProducto.resources
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\Kernel.exe.manifest
+C:\Users\guill\source\repos\Kernel\Kernel\bin\Release\Kernel.application
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.exe.manifest
+C:\Users\guill\source\repos\Kernel\Kernel\obj\Release\Kernel.application
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\Kernel.exe.config
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\Kernel.exe.manifest
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\Kernel.application
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\Kernel.exe
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\Kernel.pdb
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\EntityFramework.dll
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\EntityFramework.xml
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Migrations.Inicial.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Migrations.incremento.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Properties.Resources.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.Clientes.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.ConsultarVentas.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.ImprimirFactura.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.Informes.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Inicio.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarCliente.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarProducto.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoCliente.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoProducto.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.Productos.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.Vistas.Ventas.resources
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.csproj.GenerateResource.cache
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.csproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.exe.manifest
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.application
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.csproj.CopyComplete
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.exe
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.pdb
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.csproj.AssemblyReference.cache
+C:\Users\guill\OneDrive - frt.utn.edu.ar\Kernel\Kernel\obj\Release\Kernel.csproj.SuggestedBindingRedirects.cache
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\Kernel.exe.config
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\Kernel.exe.manifest
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\Kernel.application
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\Kernel.exe
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\Kernel.pdb
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\EntityFramework.dll
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\EntityFramework.xml
+C:\Users\guill\Desktop\Kernel\Kernel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.csproj.AssemblyReference.cache
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.csproj.SuggestedBindingRedirects.cache
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Migrations.Inicial.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Migrations.incremento.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Properties.Resources.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.Clientes.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.ConsultarVentas.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.ImprimirFactura.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.Informes.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Inicio.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarCliente.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.ModificarProducto.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoCliente.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.NuevoProducto.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.Productos.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.Vistas.Ventas.resources
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.csproj.GenerateResource.cache
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.csproj.CoreCompileInputs.cache
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.exe.manifest
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.application
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.csproj.CopyComplete
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.exe
+C:\Users\guill\Desktop\Kernel\Kernel\obj\Release\Kernel.pdb
